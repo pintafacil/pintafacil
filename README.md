@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pintafacil
 - 👀 I’m interested in coding and eletronics
 - 🌱 I’m currently learning eletronics engineering
-- <!---
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
